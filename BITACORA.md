@@ -37,6 +37,7 @@ Herramienta de IA usada: (escribe aqui cual usaste)
 - *Paso 4:* Propuso 3 mejoras concretas, como validar que el precio y el stock no sean negativos, usar un tipo mas preciso para el dinero y agregar el metodo toString. Y adjunto el codigo "Mejorado"
 - *Comparacion:* El pedido de una sola vez me dio algo muy general y largo. Con los pasos pude revisar cada parte antes de seguir, y el resultado fue mas ordenado y coherente.
 ## Ejercicio 6: Prompt estructurado y autocritica
+### Tabla de comparacion
 | Que revisar | Cumple (Si / No) |
 |-------------|------------------|
 | ¿Tiene las 4 columnas pedidas? | Si |
